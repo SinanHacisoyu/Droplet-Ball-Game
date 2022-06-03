@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import javax.swing.*;
 
 //Sinan Hacisoyu
-//119200060
 
 public class Game extends JPanel implements ActionListener, MouseListener{
 	public static JMenuBar menuBar;
