@@ -1,5 +1,4 @@
 //Sinan Hacisoyu
-//119200060
 
 public class Ball {
 	int xBall;
