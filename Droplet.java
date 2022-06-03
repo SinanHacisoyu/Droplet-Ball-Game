@@ -1,7 +1,6 @@
 import java.util.Random;
 
 //Sinan Hacisoyu
-//119200060
 
 public class Droplet {
 	private Random ran;
