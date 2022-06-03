@@ -1,7 +1,6 @@
 import javax.swing.JFrame;
 
 //Sinan Hacisoyu
-//119200060
 
 public class Test {
 	
